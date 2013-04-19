@@ -1,6 +1,5 @@
 4003-243 Project 01: README
 ===============================
-(please use the RETURN key to make multiple lines; don't assume autowrap.)
 
 0. Author Information
 ---------------------
