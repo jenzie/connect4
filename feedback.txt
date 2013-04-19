@@ -1,0 +1,47 @@
+4003-243 Project 01: Feedback
+===============================
+(please use the RETURN key to make multiple lines; don't assume autowrap.)
+
+0. Author Information
+---------------------
+
+CS Username:    jxz6853           Name:           Jenny Zhen
+
+1. Assignment Feedback
+----------------------
+a) What did you learn by doing this assignment?
+
+	I learned how to program decently in Java. I also improved my skills in 
+	object-oriented programming overall. I learned to create a game entirely 
+	on my own.
+
+----------------------
+b) What was easy about this assignment?
+
+	Completing all the players and game except for goodPlayer() once I 
+	established a plan for what I needed to do.
+
+----------------------
+c) What was harder than you originally thought?
+
+	The code to check for a winning move and goodPlayer() were both harder.
+
+----------------------
+d) What can the instructor do to improve this assignment?
+
+	Give a lecture on how to develop a decent strategy for goodPlayer().
+
+----------------------
+e) What would you have liked to do in this assignment?
+
+	Create a GUI to display the output, rather than just using standard 
+	output. If the human could interact by mouse click, that would've 
+	been interesting. However, that would be too time consuming and the 
+	class didn't learn GUI yet.
+
+----------------------
+f) What other issues would you like to discuss?
+
+	The try submission process was difficult when I couldn't find the 
+	differences between my output and the correct output. That was for 
+	test case #12, more specifically.
